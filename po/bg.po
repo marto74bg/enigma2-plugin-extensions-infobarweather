@@ -12,7 +12,7 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
 msgid "BFT"
-msgstr "С.Б"
+msgstr "Бофорт"
 
 msgid "Cancel"
 msgstr "Отмяна"
@@ -124,7 +124,7 @@ msgid "m/s"
 msgstr "м/с"
 
 msgid "mph"
-msgstr "м/ч"
+msgstr "мили/ч"
 
 msgid "mm"
 msgstr "мм"
